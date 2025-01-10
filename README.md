@@ -1,2 +1,2 @@
-# Cybersecurity-PingSweeper
+# Cybersecurity-PingScanner
  
