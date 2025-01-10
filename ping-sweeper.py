@@ -67,9 +67,6 @@ def ping_sweep(network, netmask):
 
 
 if __name__ == "__main__":
-    """
-    Main function to initiate the ping sweep./Fonction principale pour démarrer le balayage ping.
-    """
     if len(sys.argv) != 3:
         print("Usage: python ping-sweeper.py <network> <netmask>")
         sys.exit(1)

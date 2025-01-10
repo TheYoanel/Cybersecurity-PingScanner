@@ -121,8 +121,6 @@ def get_live_hosts_and_ports(network, netmask):
     # Returns the host-open ports mapping.
 
 
-# Point d'entrée principal.
-# Main entry point.
 if __name__ == "__main__":
     import sys
 
